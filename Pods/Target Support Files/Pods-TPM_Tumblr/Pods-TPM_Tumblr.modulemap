@@ -1,0 +1,6 @@
+framework module Pods_TPM_Tumblr {
+  umbrella header "Pods-TPM_Tumblr-umbrella.h"
+
+  export *
+  module * { export * }
+}
